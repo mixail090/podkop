@@ -37,7 +37,7 @@ https://podkop.net/
 
 Для установки и обновления достаточно выполнить один скрипт:
 ```
-sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/podkop/refs/heads/main/install.sh)
+sh <(wget -O - https://raw.githubusercontent.com/mixail090/podkop/refs/heads/main/install.sh)
 ```
 
 ## Будущее
